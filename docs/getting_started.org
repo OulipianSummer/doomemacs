@@ -121,7 +121,7 @@ is available through a PPA:
 #+BEGIN_SRC bash
 add-apt-repository ppa:kelleyk/emacs
 apt-get update
-apt-get install emacs27
+apt-get install emacs28-nativecomp
 #+END_SRC
 
 Or through snap:
